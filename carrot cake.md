@@ -4,6 +4,7 @@
 - flour
 - egg
 - icing sugar
+- cinnamon
 
 # Method:
 - peel carrots
