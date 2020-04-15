@@ -5,6 +5,7 @@
 - egg
 - icing sugar
 - cinnamon
+- raisins
 
 # Method:
 - peel carrots
